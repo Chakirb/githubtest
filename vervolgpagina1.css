@@ -1,0 +1,77 @@
+footer{
+
+    clear: both;
+    color: white;
+    background-color: lightgreen;
+    padding: 30px;
+
+}
+footer a{
+
+    color: white;
+}
+
+
+nav a{color:whitesmoke;
+    padding-right:5px;
+    text-decoration:none;
+
+}
+nav{
+    background-color:lightgreen;
+    padding: 10px;
+}
+
+
+div#meter {
+
+
+    padding: 50px;
+    float: right;
+}
+
+div#veter{
+
+    padding: 50px;
+    float: right;
+
+}
+div#jeper{
+
+    padding: 50px;
+    float: left;
+
+}
+
+
+article{
+
+    display: inline-block;
+    width: 29%;
+    padding-right: 10px;
+    float: right;
+
+}
+image#jeper{
+
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+
+
+
+}
+
+image.concert1{
+    display: inline-block;
+    width: 33%;
+    padding-right: 10px;
+
+}
+
+
+body{
+    background-color: white;
+}
+
+

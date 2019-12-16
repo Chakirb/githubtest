@@ -1,0 +1,39 @@
+footer{
+
+    clear: both;
+    color: white;
+    background-color: lightgreen;
+    padding: 30px;
+
+}
+footer a{
+
+    color: white;
+}
+
+
+nav a{color:whitesmoke;
+    padding-right:5px;
+    text-decoration:none;
+
+}
+nav{
+    background-color:lightgreen;
+    padding: 10px;
+}
+
+
+article{
+
+    display: inline-block;
+    width: 29%;
+    padding-right: 10px;
+    float: right;
+
+}
+
+
+body{
+    background-color: white;
+}
+

@@ -1,0 +1,85 @@
+
+footer{
+
+    clear: both;
+    color: white;
+    background-color: lightgreen;
+    padding: 30px;
+
+}
+footer a{
+
+    color: white;
+}
+
+
+nav a{color:whitesmoke;
+    padding-right:5px;
+    text-decoration:none;
+
+}
+nav{
+    background-color:lightgreen;
+    padding: 10px;
+}
+section.visuals{
+    width:10% ;
+    float: left;
+
+}
+
+
+article{
+
+    display: inline-block;
+    width: 33%;
+    padding-right: 10px;
+}
+
+
+
+
+div#wrapper{
+
+    padding: 50px;
+    float: right;
+
+
+}
+div#lepper{
+    padding: 50px;
+    float: right;
+
+
+}
+
+div#hepper{
+    padding: 50px;
+    float: right;
+
+
+}
+div#pepper{
+    padding: 50px;
+    float: right;
+
+
+}
+div.concert1 {
+    position:absolute;
+    top:150px;
+    left:25px;
+}
+
+
+
+
+body{
+    background-color: white;
+}
+
+
+
+
+
+
